@@ -1,0 +1,8 @@
+import java.io.*;
+import java.util.*;
+
+public class properCode{
+	public statci void main(String[] args){
+		System.out.println("This is Proper Code.");
+	}
+}
