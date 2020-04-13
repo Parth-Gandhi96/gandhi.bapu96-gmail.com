@@ -1,4 +1,3 @@
-package busy_spin;
 
 import java.util.*;
 
